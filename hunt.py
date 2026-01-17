@@ -1,8 +1,12 @@
 import json
 import time
 import random
+import os
 from DrissionPage import ChromiumPage, ChromiumOptions
 
+if not os.path.exists("./apps/"):
+    os.makedirs("./apps/") 
+    
 # --- 配置区域 ---
 category_list = [
     {"name": "3d-animation", "max_page": 18},

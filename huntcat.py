@@ -1,8 +1,10 @@
 import json
 import time
 import random
+import os
 from DrissionPage import ChromiumPage, ChromiumOptions
-
+if not os.path.exists("./items/"):
+    os.makedirs("./items/") 
 # --- 配置区域 ---
 category_list = [
     "ai-meeting-notetakers",

@@ -1,9 +1,11 @@
 import json
 import time
 import random
+import os
 from DrissionPage import ChromiumPage, ChromiumOptions
-import base64
 
+if not os.path.exists("./launches/"):
+    os.makedirs("./launches/") 
 # --- 配置区域 ---
 category_list = [
     {"name": "notion",},
