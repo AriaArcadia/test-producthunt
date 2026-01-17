@@ -1,0 +1,1401 @@
+{
+  "data": {
+    "productCategory": {
+      "id": "66",
+      "path": "/categories/3d-animation",
+      "slug": "3d-animation",
+      "description": "Explore tools for creating and animating 3D scenes, motion graphics, and VR. Build models, rig, render, and design interactive visuals for apps, games, and web.",
+      "name": "3D & Animation",
+      "aiSummary": {
+        "summary": "[Mathify](https://www.producthunt.com/products/mathify-4) targets STEM visuals with natural\u2011language Manim generation, GPU cloud renders, and VTK exports for inspectable 3D. [Gamelabs Studio](https://www.producthunt.com/products/gamelabs-studio) accelerates 2D game pipelines via text-to-animation, looped spritesheets, and IDE integration. [Kaedim](https://www.producthunt.com/products/kaedim) streamlines 3D asset creation with 2D\u2011to\u20113D, auto\u2011texturing, and production tracking\u2014suited to studios needing faster prototyping, consistent outputs, and managed review workflows across complex pipelines.",
+        "__typename": "ProductsSummary"
+      },
+      "categoryTags": [
+        {
+          "name": "design tools",
+          "count": 129,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "3d modeling",
+          "count": 78,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "artificial intelligence",
+          "count": 76,
+          "__typename": "ProductTagWithCount"
+        },
+        { "name": "tech", "count": 75, "__typename": "ProductTagWithCount" },
+        {
+          "name": "ai generative media",
+          "count": 55,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "augmented reality",
+          "count": 49,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "developer tools",
+          "count": 49,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "productivity",
+          "count": 47,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "graphic design tools",
+          "count": 47,
+          "__typename": "ProductTagWithCount"
+        },
+        { "name": "web app", "count": 43, "__typename": "ProductTagWithCount" },
+        {
+          "name": "marketing",
+          "count": 42,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "animation",
+          "count": 37,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "design resources",
+          "count": 35,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "video editing",
+          "count": 32,
+          "__typename": "ProductTagWithCount"
+        },
+        { "name": "games", "count": 31, "__typename": "ProductTagWithCount" },
+        {
+          "name": "animation tools",
+          "count": 30,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "template library",
+          "count": 25,
+          "__typename": "ProductTagWithCount"
+        },
+        {
+          "name": "user experience",
+          "count": 22,
+          "__typename": "ProductTagWithCount"
+        },
+        { "name": "video", "count": 21, "__typename": "ProductTagWithCount" },
+        {
+          "name": "ai-generated visuals",
+          "count": 20,
+          "__typename": "ProductTagWithCount"
+        }
+      ],
+      "products": {
+        "edges": [
+          {
+            "node": {
+              "id": "1145259",
+              "detailedReviewsCount": 0,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "1058496",
+                "scheduledAt": "2026-01-11T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "elser-ai-3",
+              "name": "Elser AI",
+              "tagline": "Create full anime shorts with just a prompt in minutes",
+              "logoUuid": "79e14359-cbb1-4613-ba02-f1bbf6183166.svg",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "long-form video generation",
+                "character consistency",
+                "single-prompt story creation",
+                "cinematic styles",
+                "movies",
+                "photo & video",
+                "animation",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "7941976",
+                      "post": {
+                        "id": "1058496",
+                        "slug": "elser-ai-3",
+                        "name": "Elser AI",
+                        "product": {
+                          "id": "1145259",
+                          "slug": "elser-ai-3",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": null,
+                        "__typename": "Post"
+                      },
+                      "position": 1,
+                      "period": "daily",
+                      "date": "2026-01-11",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 714,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1145385",
+              "detailedReviewsCount": 0,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "1058657",
+                "scheduledAt": "2026-01-06T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "janus-5",
+              "name": "Janus",
+              "tagline": "Transform into anyone live, on any device, in any platform",
+              "logoUuid": "8e0f8f4b-799c-4362-8b02-f83c311349ad.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "128",
+                  "name": "Avatar generators",
+                  "slug": "avatar-generators",
+                  "path": "/categories/avatar-generators",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "1225",
+                  "name": "AI Characters",
+                  "slug": "ai-characters",
+                  "path": "/categories/ai-characters",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "real-time faceswap",
+                "chrome extension integration",
+                "virtual camera for video calls",
+                "obs streaming support",
+                "cross-platform device compatibility",
+                "chrome extensions",
+                "video streaming",
+                "artificial intelligence",
+                "webcam",
+                "3d & animation",
+                "avatar generators",
+                "ai characters"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 54,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1126972",
+              "detailedReviewsCount": 0,
+              "postsCount": 2,
+              "latestLaunch": {
+                "id": "1056265",
+                "scheduledAt": "2025-12-31T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "numatics",
+              "name": "Imajourn",
+              "tagline": "Play with waves and shapes",
+              "logoUuid": "ba255a06-11ee-4f48-8ff2-2c30c3e787ca.jpeg",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "234",
+                  "name": "Graphic design tools",
+                  "slug": "graphic-design-tools",
+                  "path": "/categories/graphic-design-tools",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "398",
+                  "name": "Meditation apps",
+                  "slug": "meditation",
+                  "path": "/categories/meditation",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "free version",
+                "interactive sandbox",
+                "wave simulation",
+                "cymatics visualization",
+                "particle simulations",
+                "design tools",
+                "music",
+                "art",
+                "meditation",
+                "simulation games",
+                "3d & animation",
+                "graphic design tools"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "7871186",
+                      "post": {
+                        "id": "1056265",
+                        "slug": "imajourn",
+                        "name": "Imajourn",
+                        "product": {
+                          "id": "1126972",
+                          "slug": "numatics",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "1126972",
+                          "slug": "numatics",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 5,
+                      "period": "daily",
+                      "date": "2025-12-31",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 164,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1127302",
+              "detailedReviewsCount": 0,
+              "postsCount": 3,
+              "latestLaunch": {
+                "id": "1055631",
+                "scheduledAt": "2025-12-29T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "mathify-4",
+              "name": "Mathify",
+              "tagline": "AI-powered math & physics animations\u2014instantly",
+              "logoUuid": "16668ea5-cc55-4d55-9059-fe5344ec1632.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "prompt to animation",
+                "built-in code editor",
+                "cloud rendering",
+                "manim code generation",
+                "remixable animations",
+                "design tools",
+                "education",
+                "artificial intelligence",
+                "github",
+                "science",
+                "graphic design",
+                "3d & animation"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 93,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1134786",
+              "detailedReviewsCount": 0,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "1046858",
+                "scheduledAt": "2025-12-07T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "there-c8f71fe3-71b4-4633-8d40-584e4c7e40e8",
+              "name": "There",
+              "tagline": "\ud83e\ude90 Your cosmic compass through the galaxy",
+              "logoUuid": "29a3ad17-a5e6-4412-b1c9-01f9b8cf0c47.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "56",
+                  "name": "Design & Creative",
+                  "slug": "design-creative",
+                  "path": "/categories/design-creative",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "176",
+                  "name": "Maps and GPS",
+                  "slug": "maps-and-gps",
+                  "path": "/categories/maps-and-gps",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "browser-based",
+                "real-time planet tracking",
+                "uses device sensors",
+                "3d directional arrow",
+                "no install or account",
+                "space",
+                "augmented reality",
+                "maps",
+                "3d & animation",
+                "maps and gps"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 121,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1133826",
+              "detailedReviewsCount": 0,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "1045753",
+                "scheduledAt": "2025-12-04T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "gamelabs-studio",
+              "name": "Gamelabs Studio",
+              "tagline": "Vibe-code your game animations and spritesheets",
+              "logoUuid": "17bff754-1c51-4b8c-92e0-ca6d6a2f3b99.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "1585",
+                  "name": "Vibe Coding Tools",
+                  "slug": "vibe-coding",
+                  "path": "/categories/vibe-coding",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "text-to-image",
+                "free tier",
+                "text-to-animation",
+                "vscode integration",
+                "spritesheet generation",
+                "developer tools",
+                "artificial intelligence",
+                "games",
+                "3d & animation",
+                "ai generative media",
+                "vibe coding"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 97,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "133626",
+              "detailedReviewsCount": 5,
+              "postsCount": 4,
+              "latestLaunch": {
+                "id": "1019006",
+                "scheduledAt": "2025-09-25T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "kaedim",
+              "name": "Kaedim",
+              "tagline": "Tools for modern 3D production workflows",
+              "logoUuid": "4d6d24e6-e1c0-4863-be5e-26f5cb0adb7d.png",
+              "reviewsRating": 4.0,
+              "reviewsCount": 5,
+              "categories": [
+                {
+                  "id": "36",
+                  "name": "Project management software",
+                  "slug": "project-management",
+                  "path": "/categories/project-management",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "2d to 3d conversion",
+                "automatic 3d texturing",
+                "production tracking",
+                "api for 3d asset generation",
+                "real-time reviews",
+                "design tools",
+                "productivity",
+                "api",
+                "artificial intelligence",
+                "games",
+                "3d modeling",
+                "project management",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "959911",
+                      "post": {
+                        "id": "345613",
+                        "slug": "kaedim-api",
+                        "name": "Kaedim API",
+                        "product": {
+                          "id": "133626",
+                          "slug": "kaedim",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "133626",
+                          "slug": "kaedim",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 4,
+                      "period": "daily",
+                      "date": "2022-05-06",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "848798",
+                      "post": {
+                        "id": "327337",
+                        "slug": "kaedim-platform",
+                        "name": "Kaedim Platform",
+                        "product": {
+                          "id": "133626",
+                          "slug": "kaedim",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "133626",
+                          "slug": "kaedim",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 4,
+                      "period": "daily",
+                      "date": "2022-01-28",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 463,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 1,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "547930",
+              "detailedReviewsCount": 0,
+              "postsCount": 2,
+              "latestLaunch": {
+                "id": "1018147",
+                "scheduledAt": "2025-09-20T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "animant",
+              "name": "Animant",
+              "tagline": "Go Beyond Static Presentations",
+              "logoUuid": "92e519ed-a4d5-4c82-af3c-ad36566ea2fe.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "44",
+                  "name": "Presentation Software",
+                  "slug": "presentation-software",
+                  "path": "/categories/presentation-software",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "productivity",
+                "artificial intelligence",
+                "augmented reality",
+                "3d modeling",
+                "presentation software",
+                "3d & animation"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "7057379",
+                      "post": {
+                        "id": "1018147",
+                        "slug": "animant-2-0",
+                        "name": "Animant 2.0",
+                        "product": {
+                          "id": "547930",
+                          "slug": "animant",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "547930",
+                          "slug": "animant",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 2,
+                      "period": "daily",
+                      "date": "2025-09-20",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 328,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "539692",
+              "detailedReviewsCount": 9,
+              "postsCount": 7,
+              "latestLaunch": {
+                "id": "1017657",
+                "scheduledAt": "2025-09-19T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "luma-ai",
+              "name": "Luma AI",
+              "tagline": "3D render products, landscapes and scenes wherever you are",
+              "logoUuid": "7977d7f6-5780-4037-8358-75a98592d62a.png",
+              "reviewsRating": 4.56,
+              "reviewsCount": 9,
+              "categories": [
+                {
+                  "id": "63",
+                  "name": "Mobile editing apps",
+                  "slug": "mobile-editing",
+                  "path": "/categories/mobile-editing",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "text-to-video",
+                "image-to-video",
+                "phone-based 3d capture",
+                "photorealistic 3d renders",
+                "video restyling",
+                "design tools",
+                "photography",
+                "artificial intelligence",
+                "github",
+                "video",
+                "photo editing",
+                "mobile editing",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 496,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 7,
+              "founderShoutouts": [
+                {
+                  "id": "293193",
+                  "product": { "id": "539692", "__typename": "Product" },
+                  "fromPost": {
+                    "id": "712954",
+                    "slug": "rubbrband-movies",
+                    "name": "Rubbrband Movies",
+                    "product": {
+                      "id": "591213",
+                      "slug": "rubbrband",
+                      "__typename": "Product"
+                    },
+                    "badges": { "edges": [], "__typename": "Connection" },
+                    "__typename": "Post",
+                    "thumbnailImageUuid": "5fd038c6-9148-40ba-9c12-6b57e0c850ba.png",
+                    "productState": "default"
+                  },
+                  "__typename": "DetailedReview"
+                },
+                {
+                  "id": "284672",
+                  "product": { "id": "539692", "__typename": "Product" },
+                  "fromPost": {
+                    "id": "480389",
+                    "slug": "melies",
+                    "name": "Melies",
+                    "product": {
+                      "id": "599875",
+                      "slug": "melies",
+                      "__typename": "Product"
+                    },
+                    "badges": { "edges": [], "__typename": "Connection" },
+                    "__typename": "Post",
+                    "thumbnailImageUuid": "4c0d1a94-a3ca-4e27-8879-f9c4bb7e19c3.png",
+                    "productState": "default"
+                  },
+                  "__typename": "DetailedReview"
+                },
+                {
+                  "id": "313502",
+                  "product": { "id": "539692", "__typename": "Product" },
+                  "fromPost": {
+                    "id": "918180",
+                    "slug": "flora-2",
+                    "name": "FLORA \u00a9",
+                    "product": {
+                      "id": "629380",
+                      "slug": "flora-3",
+                      "__typename": "Product"
+                    },
+                    "badges": { "edges": [], "__typename": "Connection" },
+                    "__typename": "Post",
+                    "thumbnailImageUuid": "f54882fd-4b64-43a2-a754-1008db86f1f4.jpeg",
+                    "productState": "default"
+                  },
+                  "__typename": "DetailedReview"
+                }
+              ]
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "371762",
+              "detailedReviewsCount": 0,
+              "postsCount": 4,
+              "latestLaunch": {
+                "id": "1014010",
+                "scheduledAt": "2025-09-08T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "roblox",
+              "name": "Roblox",
+              "tagline": "The largest growing social platform for play",
+              "logoUuid": "140926f2-eedc-4c64-a578-de392ad02ed2.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "105",
+                  "name": "Social Networking",
+                  "slug": "social-networking",
+                  "path": "/categories/social-networking",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "960",
+                  "name": "Games",
+                  "slug": "games",
+                  "path": "/categories/games",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "productivity",
+                "video streaming",
+                "artificial intelligence",
+                "tech",
+                "games",
+                "development",
+                "community",
+                "3d & animation",
+                "social networking"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 252,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "563763",
+              "detailedReviewsCount": 11,
+              "postsCount": 2,
+              "latestLaunch": {
+                "id": "1012012",
+                "scheduledAt": "2025-09-08T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "tripo-ai",
+              "name": "Tripo AI",
+              "tagline": "Reaching New Heights in 3D Generation.",
+              "logoUuid": "32973832-9c06-472f-93e5-3621c22021d9.png",
+              "reviewsRating": 4.8,
+              "reviewsCount": 11,
+              "categories": [
+                {
+                  "id": "56",
+                  "name": "Design & Creative",
+                  "slug": "design-creative",
+                  "path": "/categories/design-creative",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "design tools",
+                "artificial intelligence",
+                "3d modeling",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "7011343",
+                      "post": {
+                        "id": "1012012",
+                        "slug": "tripo-ai-3-0",
+                        "name": "Tripo AI 3.0",
+                        "product": {
+                          "id": "563763",
+                          "slug": "tripo-ai",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "563763",
+                          "slug": "tripo-ai",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 4,
+                      "period": "weekly",
+                      "date": "2025-09-08",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  },
+                  {
+                    "node": {
+                      "id": "6945529",
+                      "post": {
+                        "id": "1012012",
+                        "slug": "tripo-ai-3-0",
+                        "name": "Tripo AI 3.0",
+                        "product": {
+                          "id": "563763",
+                          "slug": "tripo-ai",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "563763",
+                          "slug": "tripo-ai",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 1,
+                      "period": "daily",
+                      "date": "2025-09-08",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 1414,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 2,
+              "founderShoutouts": [
+                {
+                  "id": "306915",
+                  "product": { "id": "563763", "__typename": "Product" },
+                  "fromPost": {
+                    "id": "906881",
+                    "slug": "openart-consistent-characters",
+                    "name": "OpenArt Consistent Characters",
+                    "product": {
+                      "id": "500599",
+                      "slug": "openart",
+                      "__typename": "Product"
+                    },
+                    "badges": {
+                      "edges": [
+                        {
+                          "node": {
+                            "__typename": "TopPostBadge",
+                            "id": "6294417",
+                            "position": 2,
+                            "period": "weekly",
+                            "date": "2025-02-26"
+                          },
+                          "__typename": "BadgeEdge"
+                        }
+                      ],
+                      "__typename": "Connection"
+                    },
+                    "__typename": "Post",
+                    "thumbnailImageUuid": "35d76760-6f8e-4f92-a475-85d190f5c50d.png",
+                    "productState": "default"
+                  },
+                  "__typename": "DetailedReview"
+                },
+                {
+                  "id": "353826",
+                  "product": { "id": "563763", "__typename": "Product" },
+                  "fromPost": {
+                    "id": "1012012",
+                    "slug": "tripo-ai-3-0",
+                    "name": "Tripo AI 3.0",
+                    "product": {
+                      "id": "563763",
+                      "slug": "tripo-ai",
+                      "__typename": "Product"
+                    },
+                    "badges": {
+                      "edges": [
+                        {
+                          "node": {
+                            "__typename": "TopPostBadge",
+                            "id": "6945529",
+                            "position": 1,
+                            "period": "daily",
+                            "date": "2025-09-08"
+                          },
+                          "__typename": "BadgeEdge"
+                        }
+                      ],
+                      "__typename": "Connection"
+                    },
+                    "__typename": "Post",
+                    "thumbnailImageUuid": "a4c1ce92-87ab-4ff7-88e8-84df5944b869.png",
+                    "productState": "default"
+                  },
+                  "__typename": "DetailedReview"
+                }
+              ]
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1104217",
+              "detailedReviewsCount": 0,
+              "postsCount": 2,
+              "latestLaunch": {
+                "id": "1040475",
+                "scheduledAt": "2025-11-27T00:01:00-08:00",
+                "__typename": "Post"
+              },
+              "slug": "snapshot-2",
+              "name": "SnapShot",
+              "tagline": "Turn your boring Screenshots into stunning visuals",
+              "logoUuid": "40418ceb-a5c6-42b3-9205-b00b9d54cf31.x-icon",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "64",
+                  "name": "Interface design tools",
+                  "slug": "interface-design-tools",
+                  "path": "/categories/interface-design-tools",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "235",
+                  "name": "Design resources",
+                  "slug": "design-resources",
+                  "path": "/categories/design-resources",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "device frames",
+                "3d effects",
+                "custom padding",
+                "aspect ratio presets",
+                "social media graphics",
+                "design tools",
+                "productivity",
+                "user experience",
+                "marketing",
+                "photography",
+                "interface design tools",
+                "3d & animation",
+                "design resources"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 104,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1057720",
+              "detailedReviewsCount": 3,
+              "postsCount": 3,
+              "latestLaunch": {
+                "id": "1001073",
+                "scheduledAt": "2025-08-28T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "framepack-ai-video-generator",
+              "name": "Komiko",
+              "tagline": "The AI creation community for anime fans",
+              "logoUuid": "afc47c4a-69fd-4025-bf38-2fcef2bd8d50.webp",
+              "reviewsRating": 5.0,
+              "reviewsCount": 3,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "text-to-image",
+                "video to video style transfer",
+                "anime-focused templates",
+                "character design",
+                "comic creation",
+                "design tools",
+                "art",
+                "comics & graphic novels",
+                "artificial intelligence",
+                "video art",
+                "animation",
+                "video",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "6868218",
+                      "post": {
+                        "id": "1001073",
+                        "slug": "komikoai-video-to-video",
+                        "name": "KomikoAI Video to Video",
+                        "product": {
+                          "id": "1057720",
+                          "slug": "framepack-ai-video-generator",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "1057720",
+                          "slug": "framepack-ai-video-generator",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 2,
+                      "period": "daily",
+                      "date": "2025-08-28",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 858,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1096024",
+              "detailedReviewsCount": 9,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "1002876",
+                "scheduledAt": "2025-08-08T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "hera-6",
+              "name": "Hera",
+              "tagline": "Your AI Motion Designer",
+              "logoUuid": "3755c965-4852-47ba-8523-671f0b3c5057.png",
+              "reviewsRating": 4.44,
+              "reviewsCount": 9,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "design tools",
+                "marketing",
+                "video",
+                "3d & animation",
+                "ai generative media"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "6712585",
+                      "post": {
+                        "id": "1002876",
+                        "slug": "hera-5",
+                        "name": "Hera",
+                        "product": {
+                          "id": "1096024",
+                          "slug": "hera-6",
+                          "__typename": "Product"
+                        },
+                        "redirectToProduct": {
+                          "id": "1096024",
+                          "slug": "hera-6",
+                          "__typename": "Product"
+                        },
+                        "__typename": "Post"
+                      },
+                      "position": 3,
+                      "period": "daily",
+                      "date": "2025-08-08",
+                      "__typename": "TopPostBadge"
+                    },
+                    "__typename": "BadgeEdge"
+                  }
+                ],
+                "__typename": "Connection"
+              },
+              "followersCount": 818,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 1,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          },
+          {
+            "node": {
+              "id": "1090086",
+              "detailedReviewsCount": 0,
+              "postsCount": 1,
+              "latestLaunch": {
+                "id": "996181",
+                "scheduledAt": "2025-07-31T00:01:00-07:00",
+                "__typename": "Post"
+              },
+              "slug": "rendrix",
+              "name": "Rendrix",
+              "tagline": "AI workflows for Blender - describe, execute, create in 3D",
+              "logoUuid": "33f3bab0-556d-4bf9-9726-1da40c56e10a.png",
+              "reviewsRating": 0.0,
+              "reviewsCount": 0,
+              "categories": [
+                {
+                  "id": "66",
+                  "name": "3D & Animation",
+                  "slug": "3d-animation",
+                  "path": "/categories/3d-animation",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "125",
+                  "name": "AI Generative Media",
+                  "slug": "ai-generative-media",
+                  "path": "/categories/ai-generative-media",
+                  "__typename": "ProductCategory"
+                },
+                {
+                  "id": "1222",
+                  "name": "AI Content Detection",
+                  "slug": "ai-content-detection",
+                  "path": "/categories/ai-content-detection",
+                  "__typename": "ProductCategory"
+                }
+              ],
+              "tags": [
+                "design tools",
+                "artificial intelligence",
+                "3d modeling",
+                "3d & animation",
+                "ai generative media",
+                "ai content detection"
+              ],
+              "embeddingSummary": null,
+              "isTopProduct": false,
+              "badges": { "edges": [], "__typename": "Connection" },
+              "followersCount": 59,
+              "isSubscribed": false,
+              "__typename": "Product",
+              "isNoLongerOnline": false,
+              "founderReviewsCount": 0,
+              "founderShoutouts": []
+            },
+            "__typename": "ProductEdge"
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": true,
+          "endCursor": "MTU",
+          "__typename": "PageInfo"
+        },
+        "totalCount": 266,
+        "__typename": "ProductsConnection"
+      },
+      "__typename": "ProductCategory"
+    }
+  }
+}
